@@ -1,0 +1,25 @@
+{
+  "name": "lab-07-backend",
+  "version": "1.0.0",
+  "description": "Project Name\r # lab-07-backend # Lab-06",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannaalemu/lab-07-backend.git"
+  },
+  "author": "Hanna Alemu and Bradley Elliot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hannaalemu/lab-07-backend/issues"
+  },
+  "homepage": "https://github.com/hannaalemu/lab-07-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1"
+  }
+}
